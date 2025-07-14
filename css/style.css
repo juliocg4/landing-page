@@ -25,4 +25,26 @@ a:visited{
 }
 .heading2{
     display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+}
+.heading2text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+}
+.middlesectionheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.middlesectionimages{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
