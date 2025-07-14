@@ -52,13 +52,16 @@ a:visited{
 }
 .quotesection{
     display: flex;
-    height: 300px;
+    height: 600px;
     background-color: #e5e7eb;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     padding: 100px;
     margin-top: 40px;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
 }
 .calltoactionsection{
     display: flex;
@@ -69,12 +72,13 @@ a:visited{
 .calltoactionsectioncontainer{
     display: flex;
     align-items: flex-start;
-    background-color: aqua;
+    background-color: #3882f6;
+    border-radius: 10px;
     gap: 20px;
-    width: 600px;
     padding: 30px;
     justify-content: center;
     align-items: center;
+    color:#f9faf8;
 }
 footer{
     display: flex;
