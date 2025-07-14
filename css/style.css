@@ -86,6 +86,9 @@ footer{
     justify-content: center;
     margin-top: 40px;
     background-color: #1f2937;
+    color:#f9faf8;
+    padding: 30px;
+
 }
 .heading2 h1{
     font-size: 48px;
