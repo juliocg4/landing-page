@@ -20,6 +20,7 @@ ul{
 }
 a:visited{
     color: #e5e7eb;
+
 }
 .heading1 img{
     margin: 10px;
@@ -80,4 +81,22 @@ footer{
     align-items: center;
     justify-content: center;
     margin-top: 40px;
+    background-color: #1f2937;
+}
+.heading2 h1{
+    font-size: 48px;
+    color:#f9faf8;
+    font-weight: 900px;
+}
+.heading2 p{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+.heading2text button{
+    padding: 15px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 10px;
+    font-size: 18px;
+    border: 0px;
 }
