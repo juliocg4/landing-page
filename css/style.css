@@ -23,3 +23,6 @@ a:visited{
 .heading1 img{
     margin: 10px;
 }
+.heading2{
+    display: flex;
+}
